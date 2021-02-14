@@ -1,3 +1,5 @@
+video tutorial : https://www.youtube.com/playlist?list=PLaxxQQak6D_fxb9_-YsmRwxfw5PH9xALe
+
 HOW TO USE CONFIG.JSON:
 
 Create a file called "config.json" within your project folder. It will have this syntax:
